@@ -42,12 +42,12 @@ I'm a Data Scientist
 ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
 
 ---
-
+<!--
 ### 📈 GitHub Stats
 ![Tasdid's GitHub stats](https://github-readme-stats.vercel.app/api?username=tasdid25&show_icons=true&theme=dark)
 
 ---
-
+-->
 ### 🔗 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/tasdid-hasnat/)
 
