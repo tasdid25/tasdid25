@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 😎 Hey! Nice to see you.
 
-## I'm Tasdid Hasnat 😜
+
+## I'm Tasdid Hasnat 
 
 I'm a Data Scientist
 
