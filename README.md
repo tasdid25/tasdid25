@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## I'm Tasdid Hasnat 
 
-I'm a Data Scientist
+I'm a Python developer & Data Science Enthusiast 
 
 ---
 
@@ -30,11 +30,13 @@ I'm a Data Scientist
 - MLOps
 - Generative AI
 - Data Analytics
+- Django Web App devolpment
 
 ---
 
 ### 🛠 Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
